@@ -13,9 +13,9 @@ From one end of the "target" 3 types of geometric objects (cylinder, sphere, cub
 
 ## Images
 
-![Target-StarBucks](https://github.com/IRONKAGE/CosmoGeometryShoot/blob/master/Public/Images/Alpha-StarBucks.jpg)
+![Target-StarBucks](https://i.pinimg.com/originals/81/4a/61/814a615b1ef4b6c2b7cc021d5e31108c.jpg)
 
-![Target-Astronaut](https://github.com/IRONKAGE/CosmoGeometryShoot/blob/master/Public/Images/Astronaut.jpg)
+![Target-Astronaut](https://lindmae.github.io/ImageTarget.jpg)
 
 ![ScreenShot-1-Loads](https://github.com/IRONKAGE/CosmoGeometryShoot/blob/master/Public/ScreenShot/1%20-%20Loads.jpg)
 
